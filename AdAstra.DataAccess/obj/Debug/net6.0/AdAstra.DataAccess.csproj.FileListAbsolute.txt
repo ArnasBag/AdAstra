@@ -1,0 +1,14 @@
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.csproj.AssemblyReference.cache
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.AssemblyInfoInputs.cache
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.AssemblyInfo.cs
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\bin\Debug\net6.0\AdAstra.DataAccess.deps.json
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\bin\Debug\net6.0\AdAstra.DataAccess.dll
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\bin\Debug\net6.0\AdAstra.DataAccess.pdb
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.dll
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\refint\AdAstra.DataAccess.dll
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.pdb
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\ref\AdAstra.DataAccess.dll
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\bin\Debug\net6.0\AdAstra.DataAccess.runtimeconfig.json
+C:\Users\arnas\Desktop\AdAstra\AdAstra.DataAccess\obj\Debug\net6.0\AdAstra.DataAccess.genruntimeconfig.cache

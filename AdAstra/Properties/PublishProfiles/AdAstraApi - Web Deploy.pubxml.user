@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6BiuYycK5EeQZWIFbWsVugAAAAACAAAAAAAQZgAAAAEAACAAAAAS5pM2LfqKO14uVDfHvmA3oeD4GK5vICLaLXth/vxqGAAAAAAOgAAAAAIAACAAAAB5++pPUwTyCT1US1xgSvyFgns3Jkjw9bekspDCprpGKYAAAADpc/16t6HPRNfIi0sCiEo7rdhlCqMf3Wq4YBtaHAJODJMfO1YP/K4ImL7chhBql82I1/Iw5UT2PoPiWUgPXGpgkvJazzezRmsoTeQ4EJVbgUAebUFMACBUxjVszO3p8dJIju2RW1uojJ80IBxltbmOnJtPzTVXATZTzyt0ruFpL0AAAABXjKqrQcoOwPtvhChz0gh2UEAJQiPkCNK3oXp4LucYm4a0D8ktyuWR5Lv7l4NWCpyWkYbYtLtZ+VqsbbDIcFlW</EncryptedPassword>
+    <History>True|2022-11-02T15:47:09.6881941Z;True|2022-11-02T17:36:48.1132757+02:00;True|2022-11-02T17:34:00.7767437+02:00;True|2022-11-02T17:27:04.0226096+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="AdAstra.DataAccess.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:adastradbserver.database.windows.net,1433%3bInitial Catalog=AdAstra_db%3bUser Id=arnbag%40adastradbserver%3bPassword=Dandelionas0618</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
