@@ -10,7 +10,7 @@ export default{
 </script>
 
 <template>
-    <button class="btn-hover btn-1">{{text}}</button>
+    <button @click="$emit('onClick')" class="btn-hover btn-1">{{text}}</button>
 </template>
 
 <style scoped>

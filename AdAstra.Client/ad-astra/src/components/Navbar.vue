@@ -3,7 +3,8 @@
         <img class="logo" src="../assets/images/Galaxy-94.png" alt="Logo">
         <ul class="nav-menu">
             <li class="nav-item">
-                <a href="#" class="nav-link">Trips</a>
+                <router-link class="nav-link" to="/trips">Trips</router-link>
+                <!-- <a href="#" class="nav-link">Trips</a> -->
             </li>
             <li class="nav-item">
                 <a href="#" class="nav-link">About</a>
@@ -41,7 +42,7 @@ export default{
 <style scoped>
 
 .logo{
-    height: 100px;
+    height: 64px;
     width: auto;
     filter: invert(20%) sepia(69%) saturate(3071%) hue-rotate(257deg) brightness(111%) contrast(96%);
 }
@@ -50,7 +51,9 @@ export default{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: white;
 }
 .hamburger {
     display: none;
@@ -75,9 +78,9 @@ export default{
 }
 
 .nav-link{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     font-weight: 400;
-    color: white;
+    color: #8338ec;
 }
 
 .nav-link:hover{

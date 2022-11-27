@@ -8,20 +8,13 @@
 
 html {
     font-family: 'Roboto', sans-serif;
-    background-color: black;
 }
 
-body{
-    display: flex;
-    flex-direction: column;
-    background: url('./images/starry-background.jpg');
-    background-repeat: no-repeat;
-}
 
 #app{
     display: flex;
     flex-direction: column;
-    height: 100%;
+    min-height: 100%;
 }
 
 html, body{
